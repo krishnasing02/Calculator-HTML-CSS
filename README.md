@@ -1,2 +1,2 @@
 # Calculator-HTML-CSS
-This project is a simple and clean calculator built using HTML and CSS, designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+This project is a simple and clean calculator built using HTML and CSS, designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division. The interface is minimal and easy to use, with neatly styled buttons and a clear display screen for user input and results. The layout focuses on simplicity and responsive design, making it a good beginner-level project for understanding how to structure and style interactive UI components using only front-end fundamentals.
